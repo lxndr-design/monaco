@@ -910,7 +910,7 @@ https://alpharing.com/wp-content/uploads/2025/04/chimei-logo.png "
             Join us for this exclusive event at the Yacht Club de Monaco. Early bird registration is now open.
           </p>
           <a
-            href="https://docs.google.com/forms/d/1RXyOJmZ3nH7tondMY_7smr-xdc9ME2I/"
+            href="https://docs.google.com/forms/d/1RXyOJmZ3nH7tondMY_7smr-xdc9VTVBmvqgASOPME2I/"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block bg-[#00caff] hover:bg-[#00a0cc] text-gray-950 py-2 px-4 rounded fade-out transition-colors duration-300 ease-in-out"
