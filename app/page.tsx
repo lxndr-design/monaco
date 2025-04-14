@@ -264,7 +264,7 @@ export default function Home() {
               <div className="p-4 flex items-center justify-center h-[120px] w-[180px]">
                 <div className="relative w-full h-full mx-auto flex items-center justify-center">
                   <Image
-                    src="https://alpharing.com/wp-content/uploads/2025/03/oneworld-green.png"
+                    src="https://alpharing.com/wp-content/uploads/2025/04/One-World-Logo_White-on-Garden-1.png"
                     alt="Yue Sai KanOneWorld"
                     fill
                     className="object-contain"
@@ -334,11 +334,12 @@ export default function Home() {
                   />
                 </div>
               </div>
+              
               <div className="p-4 flex items-center justify-center h-[120px] w-[180px]">
                 <div className="relative w-full h-full mx-auto flex items-center justify-center">
                   <Image
-                    src="https://alpharing.com/wp-content/uploads/2025/04/firstlight-logo-scaled.webp"
-                    alt="First Light"
+                    src="https://alpharing.com/wp-content/uploads/2025/04/gingis-khan-logo.webp"
+                    alt="Gingis Khan"
                     fill
                     className="object-contain"
                   />
@@ -347,8 +348,8 @@ export default function Home() {
               <div className="p-4 flex items-center justify-center h-[120px] w-[180px]">
                 <div className="relative w-full h-full mx-auto flex items-center justify-center">
                   <Image
-                    src="https://alpharing.com/wp-content/uploads/2025/04/gingis-khan-logo.webp"
-                    alt="Gingis Khan"
+                    src="https://alpharing.com/wp-content/uploads/2025/04/lin-trust-2.png"
+                    alt="Lin Trust"
                     fill
                     className="object-contain"
                   />
