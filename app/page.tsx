@@ -565,8 +565,7 @@ export default function Home() {
                   <td className="py-2 pl-6 fade-out">
                     <div className="rounded-md hover:bg-gray-800/50 p-2">
                       <div className="font-medium header-font" style={{ fontWeight: 500 }}>
-                        <span className="text-[#00caff]">Keynote:</span> Bridging Semiconductor Innovation with Clean
-                        Energy
+                        <span className="text-[#00caff]">Keynote:</span> AI-Energy-Fusion
                       </div>
                       <div className="text-sm text-gray-300">
                         Ahmad Bahai (Chief Technology Officer of Texas Instruments)
