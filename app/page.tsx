@@ -198,8 +198,8 @@ export default function Home() {
             <h2 className="text-white mb-8 fade-out">In partnership with</h2>
 
             {/* First row - Prince Albert, Yacht Club, and WI Harper */}
-            <div className="flex justify-center items-center flex-wrap gap-8 mb-8">
-              <div className="p-4 flex items-center justify-center h-[120px] w-[200px]">
+            <div className="flex justify-center items-center flex-wrap gap-2">
+              <div className="p-4 flex items-center justify-center h-[120px] w-[180px]">
                 <div className="relative w-full h-full mx-auto flex items-center justify-center">
                   <Image
                     src="https://alpharing.com/wp-content/uploads/2025/03/prince-albert-2-transparent-1.png"
@@ -209,7 +209,7 @@ export default function Home() {
                   />
                 </div>
               </div>
-              <div className="p-4 flex items-center justify-center h-[120px] w-[200px]">
+              <div className="p-4 flex items-center justify-center h-[120px] w-[180px]">
                 <div className="relative w-full h-full mx-auto flex items-center justify-center">
                   <Image
                     src="https://alpharing.com/wp-content/uploads/2025/03/yacht-club-monaco.webp"
@@ -219,12 +219,22 @@ export default function Home() {
                   />
                 </div>
               </div>
-              <div className="p-4 flex items-center justify-center h-[120px] w-[200px]">
+              <div className="p-4 flex items-center justify-center h-[120px] w-[180px]">
                 <div className="relative w-full h-full mx-auto flex items-center justify-center">
-                  <Image src="/images/wiharper-white.png" alt="WI Harper Group" fill className="object-contain" />
+                  <Image src="https://alpharing.com/wp-content/uploads/2025/04/wi-harper-white-2.png" fill className="object-contain" />
+                </div>
+              </div>
+
+              <div className="p-4 flex items-center justify-center h-[120px] w-[180px]">
+                <div className="relative w-full h-full mx-auto flex items-center justify-center">
+                  <Image src="https://alpharing.com/wp-content/uploads/2025/04/LFT-full-white.png" fill className="object-contain" />
                 </div>
               </div>
             </div>
+
+
+
+
 
             {/* Divider line */}
             <hr className="border-t border-gray-600 w-full max-w-4xl mx-auto my-8" />
@@ -283,6 +293,166 @@ export default function Home() {
                   />
                 </div>
               </div>
+
+              <div className="p-4 flex items-center justify-center h-[120px] w-[180px]">
+                <div className="relative w-full h-full mx-auto flex items-center justify-center">
+                  <Image
+                    src="https://alpharing.com/wp-content/uploads/2025/04/beeon-logo.webp"
+                    alt="BeeOn"
+                    fill
+                    className="object-contain"
+                  />
+                </div>
+              </div>
+              <div className="p-4 flex items-center justify-center h-[120px] w-[180px]">
+                <div className="relative w-full h-full mx-auto flex items-center justify-center">
+                  <Image
+                    src="https://alpharing.com/wp-content/uploads/2025/04/chimei-logo.webp"
+                    alt="Chimei"
+                    fill
+                    className="object-contain"
+                  />
+                </div>
+              </div>
+              <div className="p-4 flex items-center justify-center h-[120px] w-[180px]">
+                <div className="relative w-full h-full mx-auto flex items-center justify-center">
+                  <Image
+                    src="https://alpharing.com/wp-content/uploads/2025/04/davos-logo.webp"
+                    alt="Davos"
+                    fill
+                    className="object-contain"
+                  />
+                </div>
+              </div>
+              <div className="p-4 flex items-center justify-center h-[120px] w-[180px]">
+                <div className="relative w-full h-full mx-auto flex items-center justify-center">
+                  <Image
+                    src="https://alpharing.com/wp-content/uploads/2025/04/eei-logo.webp"
+                    alt="EEI"
+                    fill
+                    className="object-contain"
+                  />
+                </div>
+              </div>
+              <div className="p-4 flex items-center justify-center h-[120px] w-[180px]">
+                <div className="relative w-full h-full mx-auto flex items-center justify-center">
+                  <Image
+                    src="https://alpharing.com/wp-content/uploads/2025/04/firstlight-logo-scaled.webp"
+                    alt="First Light"
+                    fill
+                    className="object-contain"
+                  />
+                </div>
+              </div>
+              <div className="p-4 flex items-center justify-center h-[120px] w-[180px]">
+                <div className="relative w-full h-full mx-auto flex items-center justify-center">
+                  <Image
+                    src="https://alpharing.com/wp-content/uploads/2025/04/gingis-khan-logo.webp"
+                    alt="Gingis Khan"
+                    fill
+                    className="object-contain"
+                  />
+                </div>
+              </div>
+              <div className="p-4 flex items-center justify-center h-[120px] w-[180px]">
+                <div className="relative w-full h-full mx-auto flex items-center justify-center">
+                  <Image
+                    src="https://alpharing.com/wp-content/uploads/2025/04/imagro-logo-scaled.webp"
+                    alt="Imagro"
+                    fill
+                    className="object-contain"
+                  />
+                </div>
+              </div>
+              <div className="p-4 flex items-center justify-center h-[120px] w-[180px]">
+                <div className="relative w-full h-full mx-auto flex items-center justify-center">
+                  <Image
+                    src="https://alpharing.com/wp-content/uploads/2025/04/kilazzi-logo.webp"
+                    alt="Kilazzi"
+                    fill
+                    className="object-contain"
+                  />
+                </div>
+              </div>
+              <div className="p-4 flex items-center justify-center h-[120px] w-[180px]">
+                <div className="relative w-full h-full mx-auto flex items-center justify-center">
+                  <Image
+                    src="https://alpharing.com/wp-content/uploads/2025/04/pmc-white-red-scaled.webp"
+                    alt="PMC"
+                    fill
+                    className="object-contain"
+                  />
+                </div>
+              </div>
+              <div className="p-4 flex items-center justify-center h-[120px] w-[180px]">
+                <div className="relative w-full h-full mx-auto flex items-center justify-center">
+                  <Image
+                    src="https://alpharing.com/wp-content/uploads/2025/04/roadzen-logo.webp"
+                    alt="Roadzen"
+                    fill
+                    className="object-contain"
+                  />
+                </div>
+              </div>
+              <div className="p-4 flex items-center justify-center h-[120px] w-[180px]">
+                <div className="relative w-full h-full mx-auto flex items-center justify-center">
+                  <Image
+                    src="https://alpharing.com/wp-content/uploads/2025/04/techmation-logo.webp"
+                    alt="Techmation"
+                    fill
+                    className="object-contain"
+                  />
+                </div>
+              </div>
+
+              <div className="p-4 flex items-center justify-center h-[120px] w-[180px]">
+                <div className="relative w-full h-full mx-auto flex items-center justify-center">
+                  <Image
+                    src="
+https://alpharing.com/wp-content/uploads/2025/04/chimei-logo.png "
+                    alt="Chimei"
+                    fill
+                    className="object-contain"
+                  />
+                </div>
+              </div>
+
+
+              <div className="p-4 flex items-center justify-center h-[120px] w-[180px]">
+                <div className="relative w-full h-full mx-auto flex items-center justify-center">
+                  <Image
+                    src="https://alpharing.com/wp-content/uploads/2025/04/tq-tech-logo.png"
+                    alt="TQ"
+                    fill
+                    className="object-contain"
+                  />
+                </div>
+              </div>
+
+
+              <div className="p-4 flex items-center justify-center h-[120px] w-[180px]">
+                <div className="relative w-full h-full mx-auto flex items-center justify-center">
+                  <Image
+                    src="https://alpharing.com/wp-content/uploads/2025/04/wenhao-logo.png"
+                    alt="TQ"
+                    fill
+                    className="object-contain"
+                  />
+                </div>
+              </div>
+
+
+              <div className="p-4 flex items-center justify-center h-[120px] w-[180px]">
+                <div className="relative w-full h-full mx-auto flex items-center justify-center">
+                  <Image
+                    src="https://alpharing.com/wp-content/uploads/2025/04/LOGO-GIRAUDI-GROUP-WHITE.png"
+                    alt="TQ"
+                    fill
+                    className="object-contain"
+                  />
+                </div>
+              </div>
+
             </div>
           </div>
         </div>
