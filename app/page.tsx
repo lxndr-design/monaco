@@ -435,7 +435,7 @@ https://alpharing.com/wp-content/uploads/2025/04/chimei-logo.png "
                 <div className="relative w-full h-full mx-auto flex items-center justify-center">
                   <Image
                     src="https://alpharing.com/wp-content/uploads/2025/04/wenhao-logo.png"
-                    alt="TQ"
+                    alt="Wenhao"
                     fill
                     className="object-contain"
                   />
@@ -447,7 +447,18 @@ https://alpharing.com/wp-content/uploads/2025/04/chimei-logo.png "
                 <div className="relative w-full h-full mx-auto flex items-center justify-center">
                   <Image
                     src="https://alpharing.com/wp-content/uploads/2025/04/LOGO-GIRAUDI-GROUP-WHITE.png"
-                    alt="TQ"
+                    alt="Giraudi Group"
+                    fill
+                    className="object-contain"
+                  />
+                </div>
+              </div>
+
+              <div className="p-4 flex items-center justify-center h-[120px] w-[180px]">
+                <div className="relative w-full h-full mx-auto flex items-center justify-center">
+                  <Image
+                    src="https://alpharing.com/wp-content/uploads/2025/04/etron-logo-white.png"
+                    alt="ETRON"
                     fill
                     className="object-contain"
                   />
