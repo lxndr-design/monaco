@@ -523,11 +523,7 @@ https://alpharing.com/wp-content/uploads/2025/04/chimei-logo.png "
               },
 
               //Page 2
-              {
-                name: "Carl Page",
-                role: "President of the Anthropocene Institute",
-                image: "https://alpharing.com/wp-content/uploads/2025/03/carl-page.webp",
-              },
+              
               {
                 name: "Alain Bécoulet",
                 role: "Head of Engineering for ITER",
@@ -810,8 +806,7 @@ https://alpharing.com/wp-content/uploads/2025/04/chimei-logo.png "
                         are Shaping the Holy Grail of Energy
                       </div>
                       <div className="text-sm text-gray-300">
-                        Isolda Costa (Director of IPEN), Luciano Martin (Director of RSE), Dan Kammen (Professor of
-                        Energy, UC Berkeley), Alain Bécoulet (Deputy Director General of ITER)
+                        Isolda Costa (Director of IPEN), Luciano Martini (Director of RSE), Daniel Kammen (Professor of Energy, UC Berkeley), Alain Bécoulet (Deputy Director General of ITER)
                         <br />
                         Moderator: Stuart Allen (CEO of FusionX)
                       </div>
@@ -837,10 +832,10 @@ https://alpharing.com/wp-content/uploads/2025/04/chimei-logo.png "
                   <td className="py-2 pl-6 fade-out">
                     <div className="rounded-md hover:bg-gray-800/50 p-2">
                       <div className="font-medium header-font" style={{ fontWeight: 500 }}>
-                        <span className="text-[#00caff]">Fireside Chat:</span> Topic TBA
+                        <span className="text-[#00caff]">Fireside Chat:</span> Energy Strategies
                       </div>
                       <div className="text-sm text-gray-300">
-                        Carl Page (President of Anthropocene Institute), Stefano Besseghini (President of ARERA, Italy)
+                        Jeffery Bohn (Senior Advisor of Anthropocene Institute), Stefano Besseghini (President of ARERA, Italy)
                       </div>
                     </div>
                   </td>
@@ -876,8 +871,7 @@ https://alpharing.com/wp-content/uploads/2025/04/chimei-logo.png "
                       </div>
                       <div className="text-sm text-gray-300">
                         Mark Thomas (CEO of First Light Fusion), Frank Hiroshi Ling (Chief Scientist of Anthropocene
-                        Institute), Tim Dodwell (Founder & CEO of digiLab), Aleksei Zollotarev (CEO & Founder of Next
-                        Step Fusion)
+                        Institute), Tim Dodwell (Founder & CEO of digiLab), Michele Laurelli (CEO of Algoretico), Aleksei Zolotarev (CEO & Founder of Next Step Fusion)
                         <br />
                         Moderator: Giovanni Landi (Alpha Ring EMEA General Manager)
                       </div>
