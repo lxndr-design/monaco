@@ -108,7 +108,7 @@ export default function Home() {
         <div className="relative z-10 flex h-screen w-full items-center">
           <div className="w-full max-w-7xl mx-auto px-4 md:px-10">
             <div className="text-left space-y-8">
-              <h1 ref={titleRef} className="text-white">
+              <h1 ref={titleRef} className="text-white header-font">
                 <span className="block">Monaco</span>
                 <span className="block">Clean Fusion</span>
                 <span className="block">Forum</span>
