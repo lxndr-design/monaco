@@ -870,8 +870,7 @@ https://alpharing.com/wp-content/uploads/2025/04/chimei-logo.png "
                         <span className="text-[#00caff]">Panel:</span> AI for Fusion & Fusion for AI
                       </div>
                       <div className="text-sm text-gray-300">
-                        Mark Thomas (CEO of First Light Fusion), Frank Hiroshi Ling (Chief Scientist of Anthropocene
-                        Institute), Tim Dodwell (Founder & CEO of digiLab), Michele Laurelli (CEO of Algoretico), Aleksei Zolotarev (CEO & Founder of Next Step Fusion)
+                        Mark Thomas (CEO of First Light Fusion), Tim Dodwell (Founder & CEO of digiLab), Michele Laurelli (CEO of Algoretico), Aleksei Zolotarev (CEO & Founder of Next Step Fusion)
                         <br />
                         Moderator: Giovanni Landi (Alpha Ring EMEA General Manager)
                       </div>
