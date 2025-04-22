@@ -526,7 +526,7 @@ https://alpharing.com/wp-content/uploads/2025/04/chimei-logo.png "
               
               {
                 name: "Alain Bécoulet",
-                role: "Head of Engineering for ITER",
+                role: "Deputy Director General – Scientist , ITER Organization",
                 image: "https://alpharing.com/wp-content/uploads/2025/03/alain-becoulet.webp",
               },
               {
@@ -558,7 +558,11 @@ https://alpharing.com/wp-content/uploads/2025/04/chimei-logo.png "
                 name: "Dr. Isolda Costa",
                 role: "Director of Brazil's Nuclear and Energy Research Institute IPEN",
                 image: "https://alpharing.com/wp-content/uploads/2025/02/milena-stocheva.webp",
-              },
+              },{
+                name: "Mikhail Chudakov",
+                role: "Deputy Director General, Head of the Department of Nuclear Energy of IAEA",
+                image: "https://alpharing.com/wp-content/uploads/2025/04/Mikhail-Chudakov.webp",
+              }
             ].map((person, index) => (
               <div key={index} className="text-center">
                 <div className="w-32 h-32 mx-auto mb-3 overflow-hidden rounded-full bg-gray-800">
@@ -806,7 +810,7 @@ https://alpharing.com/wp-content/uploads/2025/04/chimei-logo.png "
                         are Shaping the Holy Grail of Energy
                       </div>
                       <div className="text-sm text-gray-300">
-                        Isolda Costa (Director of IPEN), Luciano Martini (Director of RSE), Daniel Kammen (Professor of Energy, UC Berkeley), Alain Bécoulet (Deputy Director General of ITER)
+                        Isolda Costa (Director of IPEN), Luciano Martini (Director of RSE), Daniel Kammen (Professor of Energy, UC Berkeley), Alain Bécoulet (Deputy Director General – Scientist, ITER Organization)
                         <br />
                         Moderator: Stuart Allen (CEO of FusionX)
                       </div>
