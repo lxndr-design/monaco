@@ -857,7 +857,7 @@ https://alpharing.com/wp-content/uploads/2025/04/chimei-logo.png "
                       <div className="text-sm text-gray-300">
                         Emanuele Massarelli (Vice President of EEI S.p.A.), Rajeev Pattathil (Head of Novel Accelerator
                         Science and Applications at Rutherford Appleton Laboratory), Alexander Gunn (Senior Scientist at
-                        Alpha Ring)
+                        Alpha Ring), Peter Kurz (Chairman of Alpha Ring Asia, Co-Founder of Davos Energy)
                         <br />
                         Moderator: Gianluca Gregori (Professor of Physics at Oxford University)
                       </div>
