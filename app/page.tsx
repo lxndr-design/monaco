@@ -836,7 +836,7 @@ https://alpharing.com/wp-content/uploads/2025/04/chimei-logo.png "
                   <td className="py-2 pl-6 fade-out">
                     <div className="rounded-md hover:bg-gray-800/50 p-2">
                       <div className="font-medium header-font" style={{ fontWeight: 500 }}>
-                        <span className="text-[#00caff]">Fireside Chat:</span> Energy Strategies
+                        <span className="text-[#00caff]">Fireside Chat:</span> Powering an Abundant Future: Energy Costs, Seurity, and Innovation for a Resilient Economy
                       </div>
                       <div className="text-sm text-gray-300">
                         Jeffery Bohn (Senior Advisor of Anthropocene Institute), Stefano Besseghini (President of ARERA, Italy)
